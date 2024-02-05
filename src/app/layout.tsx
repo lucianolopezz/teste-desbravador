@@ -6,7 +6,7 @@ import { cn } from '@/lib/utils'
 
 import Providers from '@/components/Providers'
 
-export const fontSans = Inter({
+const fontSans = Inter({
   subsets: ['latin'],
   variable: '--font-sans',
 })
